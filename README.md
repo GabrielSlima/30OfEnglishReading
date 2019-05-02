@@ -20,3 +20,4 @@ These are the things that I've been reading and I'll read so soon throught this 
 -- [Introduction to Kubernetes](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882) by Rinor Maloku
 
 The new hacker's dictionary by eric s. raymond
+? [How to become a security engineer](https://www.cyberdegrees.org/jobs/security-engineer/) by Cyber Degrees
