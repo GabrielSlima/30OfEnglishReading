@@ -11,10 +11,12 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 -- [So you want to be a security engineer?](https://medium.com/@niruragu/so-you-want-to-be-a-security-engineer-d8775976afb7) by Niru Ragupathy
 
-~[The Hacker manifesto - A brief introduction](https://en.wikipedia.org/wiki/Hacker_Manifesto)
+~[The Hacker manifesto - A brief introduction](https://en.wikipedia.org/wiki/Hacker_Manifesto) by Wikipedia
 
-~[The Conscience of a Hacker - The Hacker Manifesto](https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt)
+~[The Conscience of a Hacker - The Hacker Manifesto](https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt) by The Mentor
 
--- [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+-- [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html) by Eric Steven Raymond
 
--- [Introduction to Kubernetes](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
+-- [Introduction to Kubernetes](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882) by Rinor Maloku
+
+The new hacker's dictionary by eric s. raymond
