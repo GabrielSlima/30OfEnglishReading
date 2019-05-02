@@ -2,9 +2,9 @@
 These are the things that I've been reading and I'll read so soon throught this journey...
 
 ## Legend
-=> ? To do
-=> -- In progress
-=> ~ Done
+* ? To do
+* -- In progress
+* ~ Done
 
 
 ~[So, you want to work in security?](https://medium.freecodecamp.org/so-you-want-to-work-in-security-bc6c10157d23) by Parisa Tabriz
