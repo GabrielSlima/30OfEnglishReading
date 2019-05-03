@@ -18,6 +18,12 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 -- [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html) by Eric Steven Raymond
 
+? [Scalable systems](https://medium.com/@ramkarnani24/designing-scalable-systems-part-1-60279fc312f1)
+
+? [Effective reading](https://medium.com/@maartenvandoorn/the-complete-guide-to-effective-reading-fc1835937757)
+
+? [I woke up at 5am everyday for 30 days](https://medium.com/@themarvindiaz/i-woke-up-at-5-am-everyday-for-30-days-efefe86400c0)
+
 ? [Web Application Exploits and Defenses ](https://google-gruyere.appspot.com/)
 
 ? [Xss-Game](https://xss-game.appspot.com/)
