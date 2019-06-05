@@ -30,6 +30,8 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ~ [The Fine Art of Language Exchange](https://www.fluentin3months.com/language-exchange-baby-moose/)
 
+~ [Language Learning Podcasts](https://www.fluentin3months.com/language-learning-podcasts/)
+
 ? [Hacking lab](https://www.hacking-lab.com/about/)by Hacking Lab
 
 -- [Java tutorial](https://docs.oracle.com/javase/tutorial/)by Oracle
