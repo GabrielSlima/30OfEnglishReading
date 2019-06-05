@@ -16,13 +16,13 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ~ [The Conscience of a Hacker - The Hacker Manifesto](https://archive.org/stream/The_Conscience_of_a_Hacker/hackersmanifesto.txt) by The Mentor
 
-~ [Don't manage your time, manage your energy] (https://medium.com/swlh/dont-manage-your-time-manage-your-energy-e9909f1962b3) by Darius Foroux
+~ [Don't manage your time, manage your energy](https://medium.com/swlh/dont-manage-your-time-manage-your-energy-e9909f1962b3) by Darius Foroux
 
-~ [How to keep a journal] (https://dariusforoux.com/how-to-journal/) by Darius Foroux
+~ [How to keep a journal](https://dariusforoux.com/how-to-journal/) by Darius Foroux
 
-~ [Want to make millions, then act like a millionarie] (https://medium.com/swlh/want-to-make-millions-then-act-like-a-millionaire-6a790281b4e5) by Anthony Moore
+~ [Want to make millions, then act like a millionarie](https://medium.com/swlh/want-to-make-millions-then-act-like-a-millionaire-6a790281b4e5) by Anthony Moore
 
-~ [What should i learn to be a security explorer] (https://www.quora.com/What-should-I-learn-first-to-begin-hacking)
+~ [What should i learn to be a security explorer](https://www.quora.com/What-should-I-learn-first-to-begin-hacking)
 
 ~ [Language exchange: How to do it effectively and not waste everyone's time](https://www.lingualift.com/blog/language-exchange-effectively-not-waste-time/)
 
