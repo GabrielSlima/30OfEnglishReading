@@ -28,6 +28,8 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ~ [Stop Wasting Your Life Saying “I’ll Speak a New Language When…”](https://www.fluentin3months.com/compare-and-despair/)
 
+~ [The Fine Art of Language Exchange](https://www.fluentin3months.com/language-exchange-baby-moose/)
+
 ? [Hacking lab](https://www.hacking-lab.com/about/)by Hacking Lab
 
 -- [Java tutorial](https://docs.oracle.com/javase/tutorial/)by Oracle
