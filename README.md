@@ -28,21 +28,21 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ~ [Stop Wasting Your Life Saying “I’ll Speak a New Language When…”](https://www.fluentin3months.com/compare-and-despair/)
 
-? [Hacking lab] (https://www.hacking-lab.com/about/)by Hacking Lab
+? [Hacking lab](https://www.hacking-lab.com/about/)by Hacking Lab
 
--- [Java tutorial] (https://docs.oracle.com/javase/tutorial/)by Oracle
+-- [Java tutorial](https://docs.oracle.com/javase/tutorial/)by Oracle
 
--- [Java materials list] (https://www.fromdev.com/2012/10/learn-java.html)by from dev
+-- [Java materials list](https://www.fromdev.com/2012/10/learn-java.html)by from dev
 
--- [the art of exploitation] (https://www.amazon.com/dp/1593271441?tag=hacking-books-20)by jon erickson
+-- [the art of exploitation](https://www.amazon.com/dp/1593271441?tag=hacking-books-20)by jon erickson
 
-? [Habits of successful developers] (https://medium.com/swlh/5-powerful-habits-of-successful-developers-1c0e32659ea3)by Ravi Shankar Rajan
+? [Habits of successful developers](https://medium.com/swlh/5-powerful-habits-of-successful-developers-1c0e32659ea3)by Ravi Shankar Rajan
 
 -- [Focus on learning and creating rather than being entertained and distracted](https://medium.com/the-mission/focus-on-learning-and-creating-rather-than-being-entertained-and-distracted-e6573de1bc84) by Anthony Moore
 
 -- [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html) by Eric Steven Raymond
 
-? [Hacking tutorials] (https://www.fromdev.com/2013/07/Hacking-Tutorials.html) by from dev
+? [Hacking tutorials](https://www.fromdev.com/2013/07/Hacking-Tutorials.html) by from dev
 
 
 ? [Scalable systems](https://medium.com/@ramkarnani24/designing-scalable-systems-part-1-60279fc312f1)
@@ -71,13 +71,13 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ? [Unix in a Nutshell, Fourth Edition] (https://www.amazon.com/dp/0596100299?tag=hacking-books-20)
 
-? [The Design of the UNIX Operating System ] (https://www.amazon.com/dp/0132017997?tag=hacking-books-20)
+? [The Design of the UNIX Operating System ](https://www.amazon.com/dp/0132017997?tag=hacking-books-20)
 
 ? [The art of Unix programming](http://catb.org/~esr/writings/taoup/) by Eric S. Raymond
 
 ? The new hacker's dictionary by eric s. raymond
 
-? [Computer Networking: A Top-Down Approach] (https://www.amazon.com/dp/0132856204?tag=hacking-books-20)
+? [Computer Networking: A Top-Down Approach](https://www.amazon.com/dp/0132856204?tag=hacking-books-20)
 
 -- [Introduction to Kubernetes](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882) by Rinor Maloku
 
