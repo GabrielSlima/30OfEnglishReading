@@ -28,17 +28,17 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ~ [Stop Wasting Your Life Saying “I’ll Speak a New Language When…”](https://www.fluentin3months.com/compare-and-despair/)
 
-? [Hacking lab] (https://www.hacking-lab.com/about/) by Hacking Lab
+? [Hacking lab] (https://www.hacking-lab.com/about/)by Hacking Lab
 
--- [Java tutorial] (https://docs.oracle.com/javase/tutorial/) by Oracle
+-- [Java tutorial] (https://docs.oracle.com/javase/tutorial/)by Oracle
 
--- [Java materials list] (https://www.fromdev.com/2012/10/learn-java.html) by from dev
+-- [Java materials list] (https://www.fromdev.com/2012/10/learn-java.html)by from dev
 
--- [the art of exploitation] (https://www.amazon.com/dp/1593271441?tag=hacking-books-20) by jon erickson
+-- [the art of exploitation] (https://www.amazon.com/dp/1593271441?tag=hacking-books-20)by jon erickson
 
-? [Habits of successful developers] (https://medium.com/swlh/5-powerful-habits-of-successful-developers-1c0e32659ea3) by Ravi Shankar Rajan
+? [Habits of successful developers] (https://medium.com/swlh/5-powerful-habits-of-successful-developers-1c0e32659ea3)by Ravi Shankar Rajan
 
--- [Focus on learning and creating rather than being entertained and distracted] (https://medium.com/the-mission/focus-on-learning-and-creating-rather-than-being-entertained-and-distracted-e6573de1bc84) by Anthony Moore
+-- [Focus on learning and creating rather than being entertained and distracted](https://medium.com/the-mission/focus-on-learning-and-creating-rather-than-being-entertained-and-distracted-e6573de1bc84) by Anthony Moore
 
 -- [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html) by Eric Steven Raymond
 
