@@ -69,7 +69,7 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ? [How can I become a Unix Wizard?](http://catb.org/~esr/faqs/loginataka.html) by Eric S. Raymond
 
-? [Unix in a Nutshell, Fourth Edition] (https://www.amazon.com/dp/0596100299?tag=hacking-books-20)
+? [Unix in a Nutshell, Fourth Edition](https://www.amazon.com/dp/0596100299?tag=hacking-books-20)
 
 ? [The Design of the UNIX Operating System ](https://www.amazon.com/dp/0132017997?tag=hacking-books-20)
 
