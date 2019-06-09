@@ -42,7 +42,7 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ? [Habits of successful developers](https://medium.com/swlh/5-powerful-habits-of-successful-developers-1c0e32659ea3)by Ravi Shankar Rajan
 
--- [Focus on learning and creating rather than being entertained and distracted](https://medium.com/the-mission/focus-on-learning-and-creating-rather-than-being-entertained-and-distracted-e6573de1bc84) by Anthony Moore
+~ [Focus on learning and creating rather than being entertained and distracted](https://medium.com/the-mission/focus-on-learning-and-creating-rather-than-being-entertained-and-distracted-e6573de1bc84) by Anthony Moore
 
 -- [How to become a hacker](http://www.catb.org/esr/faqs/hacker-howto.html) by Eric Steven Raymond
 
