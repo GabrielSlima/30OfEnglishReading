@@ -34,6 +34,8 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ~ [How to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
 
+~ [Tips to Web Dev portfolio](https://blog.toggl.com/web-developer-portfolio/)
+
 ? [Hacking lab](https://www.hacking-lab.com/about/)by Hacking Lab
 
 -- [Java tutorial](https://docs.oracle.com/javase/tutorial/)by Oracle
