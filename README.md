@@ -32,6 +32,8 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 ~ [Language Learning Podcasts](https://www.fluentin3months.com/language-learning-podcasts/)
 
+~ [How to become a UI/UX designer](https://blog.nicolesaidy.com/7-steps-to-become-a-ui-ux-designer-8beed7639a95)
+
 ? [Hacking lab](https://www.hacking-lab.com/about/)by Hacking Lab
 
 -- [Java tutorial](https://docs.oracle.com/javase/tutorial/)by Oracle
