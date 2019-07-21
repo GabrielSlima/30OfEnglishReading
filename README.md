@@ -89,3 +89,5 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 -- [Introduction to Kubernetes](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882) by Rinor Maloku
 
+
+?http://www.phrack.org/
