@@ -93,3 +93,5 @@ These are the things that I've been reading and I'll read so soon throught this 
 ?http://www.phrack.org/
 
 ~https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/
+
+~https://www.digitalocean.com/community/tutorials/how-to-set-up-password-authentication-with-nginx-on-ubuntu-14-04
