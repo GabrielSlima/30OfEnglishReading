@@ -91,3 +91,5 @@ These are the things that I've been reading and I'll read so soon throught this 
 
 
 ?http://www.phrack.org/
+
+~https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/
